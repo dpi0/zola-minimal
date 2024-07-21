@@ -1,0 +1,29 @@
+# root editorconfig file
+root = true
+
+# global settings
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# markdown settings
+[*.md]
+indent_style = space
+indent_size = 2
+
+# html settings
+[*.html]
+indent_style = space
+indent_size = 2
+
+# css settings
+[*.css]
+indent_style = space
+indent_size = 2
+
+# toml settings
+[*.toml]
+indent_style = space
+indent_size = 2
