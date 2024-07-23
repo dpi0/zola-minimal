@@ -60,16 +60,6 @@
   body {
     padding: 15px;
   }
-
-  .downloads {
-    width: 100%;
-    margin: 1rem auto;
-  }
-
-  .downloads li,
-  .downloads li + li + li {
-    width: 33%;
-  }
 }
 
 @media print {
